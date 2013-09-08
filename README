@@ -1,1 +1,6 @@
-These are Machine Learning Projects
+These are Machine Learning Projects.
+
+#Languages Used: Python
+#Packages Used: scikit-learn
+
+NOTE: As there are no efficient feature selection strategies in scikit-learn package, rare features are discarded and Manual Feature Selection is done through MATLAB TOOLKIT
